@@ -1,4 +1,4 @@
-# Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
+# Pavan Kumar Dasari pull request build second retry after adding refspec removed refspec Spring PetClinic Sample Application [![Build Status](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml/badge.svg)](https://github.com/spring-projects/spring-petclinic/actions/workflows/maven-build.yml)
 
 [![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/spring-projects/spring-petclinic)
 
@@ -143,7 +143,7 @@ For pull requests, editor preferences are available in the [editor config](.edit
 
 # License
 
-The Spring PetClinic sample application is released under version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+The Spring PetClinic sample application is released under pavan version 2.0 of the [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
 
 [spring-petclinic]: https://github.com/spring-projects/spring-petclinic
 [spring-framework-petclinic]: https://github.com/spring-petclinic/spring-framework-petclinic
